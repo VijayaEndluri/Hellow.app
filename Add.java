@@ -3,5 +3,6 @@ class Simple{
      System.out.println("Hello Java");
      System.out.println  ("hi");
        System.out.println  ("Address");
+System.out.println  ("Address");
     }  
 }  
